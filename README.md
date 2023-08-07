@@ -15,13 +15,20 @@ Nowadays its important to have security and smart door unlock sysem.
 8.SOLENOID LOCK
 9.CONNECTING WIRES
 10.BUZZER
-#SOFTWARE USED:
+##SOFTWARE USED:
 1.Aurdino IDE
 2.Firebase
+
+
+
 ![IMG-20230807-WA0053](https://github.com/Harinayan29/DOOR-LOCK-SECURITY-SYSTEM/assets/136988917/04190f51-ee84-419a-80a4-da017231e6c2)
+
 ![IMG-20230807-WA0052](https://github.com/Harinayan29/DOOR-LOCK-SECURITY-SYSTEM/assets/136988917/3a7f17a5-86ad-4ccb-a192-a4e14347edae)
+
 ![IMG-20230807-WA0051](https://github.com/Harinayan29/DOOR-LOCK-SECURITY-SYSTEM/assets/136988917/6742342f-00dd-4b5f-a6f6-fba80f720c4a)
+
 ![IMG-20230807-WA0050](https://github.com/Harinayan29/DOOR-LOCK-SECURITY-SYSTEM/assets/136988917/84e19116-c667-4256-a86b-57c82e6c1872)
+
 ![IMG-20230807-WA0049](https://github.com/Harinayan29/DOOR-LOCK-SECURITY-SYSTEM/assets/136988917/630d26be-7911-4876-9a96-4f7553e05856)
 ![IMG-20230807-WA0048](https://github.com/Harinayan29/DOOR-LOCK-SECURITY-SYSTEM/assets/136988917/dae502b5-4cf8-4659-ad1c-0e318d2095b2)
 
