@@ -15,7 +15,7 @@ Nowadays its important to have security and smart door unlock sysem.
 8. SOLENOID LOCK
 9. CONNECTING WIRES
 10. BUZZER
-##SOFTWARE USED:
+#SOFTWARE USED:
 1. Aurdino IDE
 2. Firebase
 
