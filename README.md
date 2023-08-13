@@ -16,7 +16,7 @@ Nowadays its important to have security and smart door unlock sysem.
 9. CONNECTING WIRES
 10. BUZZER
 
-#SOFTWARE USED:
+# SOFTWARE USED:
 1. Aurdino IDE
 2. Firebase
 
@@ -29,5 +29,5 @@ Nowadays its important to have security and smart door unlock sysem.
 ![IMG-20230807-WA0049](https://github.com/Harinayan29/DOOR-LOCK-SECURITY-SYSTEM/assets/136988917/630d26be-7911-4876-9a96-4f7553e05856)
 ![IMG-20230807-WA0048](https://github.com/Harinayan29/DOOR-LOCK-SECURITY-SYSTEM/assets/136988917/dae502b5-4cf8-4659-ad1c-0e318d2095b2)
 
-#contact:
+# Contact:
 Harinayan-harinayankandukuri1@gmail.com
